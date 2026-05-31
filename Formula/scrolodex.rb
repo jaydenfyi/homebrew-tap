@@ -1,8 +1,8 @@
 class Scrolodex < Formula
   desc "macOS menu-bar app for switching windows by scrolling"
   homepage "https://github.com/jaydenfyi/scrolodex"
-  url "https://github.com/jaydenfyi/scrolodex/archive/refs/tags/v0.0.5.tar.gz"
-  sha256 "ebe3671f54a178260e2c38ee2db3f9c4664c45775ec7b0d0f598d59b935dc407"
+  url "https://github.com/jaydenfyi/scrolodex/archive/refs/tags/v0.0.6.tar.gz"
+  sha256 "7bf770a772bfe7427cd2b7c68b6ac6ce945656ecbd1166909588f1ff591347b9"
   license "MIT"
 
   depends_on :xcode => ["15.0", :build]
