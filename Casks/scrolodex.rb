@@ -1,6 +1,6 @@
 cask "scrolodex" do
-  version "0.0.13"
-  sha256 "185d0d219922f2232d9aeaae56314f972a9a786eebe61a13556df85b43f3669e"
+  version "0.0.14"
+  sha256 "6c62c9a4bb5dca27660e84798e853653f08f79e25cb70c21241662482e430cf3"
 
   url "https://github.com/jaydenfyi/scrolodex/releases/download/v#{version}/Scrolodex-#{version}.zip"
   name "Scrolodex"
